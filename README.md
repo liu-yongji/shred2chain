@@ -1,5 +1,10 @@
 # shred2chain
+
+
+
 convert shred out file to stand chain file
+
+
 Usage:    1: chomod +x shred2chain 
           2：./shred2chain [shre file] [chainfile];
           example:
